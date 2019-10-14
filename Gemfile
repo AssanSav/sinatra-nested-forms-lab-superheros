@@ -10,6 +10,11 @@ gem 'shotgun', '0.9'
 gem 'pry', '0.10.3'
 gem 'require_all', '1.3.2'
 
+# gem 'sqlite3', '~>1.3.6'
+# gem "activerecord", "~> 5.2.3", :require => 'active_record'
+# gem 'sinatra-activerecord', :require => 'sinatra/activerecord'
+# gem "database_cleaner"
+
 group :test do
   gem 'rspec', '3.3.0'
   gem 'capybara', '2.5.0'
